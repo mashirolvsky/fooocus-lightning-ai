@@ -22,7 +22,7 @@ fi
 
 # Check if the Fooocus repository exists, if not clone it
 if [ ! -d "Fooocus" ]; then
-    git clone https://github.com/lllyasviel/Fooocus.git
+    git clone https://github.com/mashb1t/Fooocus
 fi
 cd Fooocus
 git pull

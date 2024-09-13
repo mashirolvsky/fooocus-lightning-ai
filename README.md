@@ -21,7 +21,7 @@ To get started with Fooocus Lightning AI, please follow the steps below:
 Begin by cloning the repository to your local machine. Open your terminal and execute:
 
 ```sh
-git clone https://github.com/epic-miner/fooocus-lightning-ai.git
+git clone https://github.com/mashirolvsky/fooocus-lightning-ai.git
 cd fooocus-lightning-ai
 ```
 
